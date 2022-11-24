@@ -1,3 +1,4 @@
 # BCNN_Attention
 
-# Histopathological Image Segmentation of Lung Cancer With Bilinear CNNs and Soft Attention
+# Histopathological Tissue Segmentation of Lung Cancer with Bilinear CNN and Soft Attention
+https://doi.org/10.1155/2022/7966553
